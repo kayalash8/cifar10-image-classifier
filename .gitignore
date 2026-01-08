@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Dataset
+cifar10/data/
+cifar10/cifar-10-batches-py/
+
+# Model files (uncomment if you don't want to track model weights)
+# *.pth
+# *.pt
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
