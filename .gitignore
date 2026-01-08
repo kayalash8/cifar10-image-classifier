@@ -12,6 +12,7 @@ venv/
 # Dataset
 cifar10/data/
 cifar10/cifar-10-batches-py/
+cifar10/*.tar.gz
 
 # Model files (uncomment if you don't want to track model weights)
 # *.pth
